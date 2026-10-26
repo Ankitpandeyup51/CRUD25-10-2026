@@ -99,3 +99,43 @@ Project Repository: CRUD25-10-2026
 This project is available for learning and educational purposes. Add a LICENSE file to specify the terms under which others may use or distribute the project.
 
 ⭐ If you find this project useful, consider giving the repository a star!
+
+
+#💻 Registration Pages
+===========================
+
+<img width="952" height="505" alt="Screenshot 2026-10-26 083737" src="https://github.com/user-attachments/assets/721b613b-70e1-412c-b94f-454a6823ace2" />
+
+#💻 Login Pages
+====================
+
+
+<img width="959" height="500" alt="Screenshot 2026-10-26 083751" src="https://github.com/user-attachments/assets/00afcb70-581e-45c8-af8f-f20bc50388d2" />
+
+
+#💻 User Dashboard
+======================
+
+
+<img width="957" height="472" alt="Screenshot 2026-10-26 083836" src="https://github.com/user-attachments/assets/7a61edcf-6e44-4e17-ae52-7d44bc6ba40a" />
+
+
+<img width="950" height="504" alt="Screenshot 2026-10-26 083850" src="https://github.com/user-attachments/assets/177e96c8-e3a9-4884-bf2e-5eade071750f" />
+
+
+#💻Update from
+=========================
+
+<img width="946" height="504" alt="Screenshot 2026-10-26 083951" src="https://github.com/user-attachments/assets/7c1d77cd-8413-47ef-a46c-ccf32a4ffaa5" />
+
+
+#💻Showdata
+======================
+
+<img width="959" height="505" alt="Screenshot 2026-10-26 083719" src="https://github.com/user-attachments/assets/c3ee96f2-9f06-4746-94aa-cf7ef1f5644e" />
+
+
+
+
+
+
