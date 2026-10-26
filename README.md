@@ -134,8 +134,10 @@ This project is available for learning and educational purposes. Add a LICENSE f
 
 <img width="959" height="505" alt="Screenshot 2026-10-26 083719" src="https://github.com/user-attachments/assets/c3ee96f2-9f06-4746-94aa-cf7ef1f5644e" />
 
+# bjhg
+==========
 
 
-
+<img width="946" height="504" alt="Screenshot 2026-10-26 083951" src="https://github.com/user-attachments/assets/8ad6f9f7-525a-4181-ba13-afe6eea71514" />
 
 
