@@ -1,23 +1,35 @@
 CRUD Application 🚀
+===========================
 
 A simple and user-friendly CRUD (Create, Read, Update, Delete) application designed to manage records efficiently. This project demonstrates the fundamental operations required to create, view, update, and delete data.
 
 📌 About the Project
+===========================
 
 The CRUD Application is a software development project focused on basic data management operations. It provides a simple way to manage records and understand how CRUD functionality works in an application.
 
 ✨ Features
+========================
+
 ➕ Create: Add new records.
 📋 Read: View and retrieve existing records.
 ✏️ Update: Edit and modify existing records.
 🗑️ Delete: Remove records when they are no longer needed.
 🎯 Simple Interface: Designed for easy and convenient use.
 💻 Learning Project: Helps developers understand CRUD operations and application development fundamentals.
+
+
 🛠️ Technologies
+========================
+
 C# / .NET (confirm against the project files)
 Visual Studio
 Git and GitHub
+
+
 📂 Project Structure
+========================
+
 text
 CRUD25-10-2026/
 ├── CRUD25-10-2026/
@@ -26,11 +38,16 @@ CRUD25-10-2026/
 └── .gitignore
 
 ⚙️ Getting Started
+==========================
+
 Prerequisites
 Visual Studio
 The .NET SDK or runtime required by the project
 Git
+
 Installation
+================
+
 Clone the repository:
 bash
 git clone https://github.com/Ankitpandeyup51/CRUD25-10-2026.git
