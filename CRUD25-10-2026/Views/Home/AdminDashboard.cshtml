@@ -1,0 +1,52 @@
+﻿@model System.Data.DataTable
+@{
+    ViewBag.Title = "AdminDashboard";
+}
+
+<h1>Admin Dashboard</h1><br />
+                        <table>
+                            @if (Model != null && Model.Rows.Count > 0)
+                            {
+
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Name</th>
+                                        <th>Email</th>
+                                        <th>Phone</th>
+                                        <th>DOB</th>
+                                        <th>Gender</th>
+                                        <th>Password</th>
+                                        <th>Address</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach(System.Data.DataRow row in Model.Rows)
+                {
+                    <tr>
+                        <td>@row["id"]</td>
+                        <td>@row["name"]</td>
+                        <td>@row["email"]</td>
+                        <td>@row["phone"]</td>
+                        <td>@row["Dob"]</td>
+                        <td>@row["Gender"]</td>
+                        <td>@row["Password"]</td>
+                        <td>@row["Address"]</td>
+                        <td><a  class="info" href="~/home/update?id=@row["id"]">Update</a> |<a class="danger" href="~/home/delete?id=@row["id"]">Delete</a> </td>
+                    </tr>
+                }
+                                </tbody>
+
+
+                            }
+else
+            {
+               <tfoot>
+                   <tr>
+                       <td colspan="9">No Data Found!</td>
+                   </tr>
+               </tfoot>
+            }
+                        </table>
+
