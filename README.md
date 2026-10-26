@@ -68,23 +68,33 @@ Create	Adds a new record
 Read	Displays existing records
 Update	Modifies an existing record
 Delete	Removes a record
+
 🎯 Project Objective
+========================
+
 
 The main objective of this project is to understand CRUD operations, improve programming skills, and learn the fundamentals of building data-driven applications.
 
 🚀 Future Improvements
+============================
+
 Add input validation and error handling.
 Integrate a database for persistent storage.
 Improve the user interface and user experience.
 Add search, filtering, and sorting functionality.
 Implement authentication and authorization where required.
+
+
 👨‍💻 Author
+====================
 
 Ankit Pandey
 
 GitHub: @Ankitpandeyup51
 Project Repository: CRUD25-10-2026
+
 📄 License
+=========================
 
 This project is available for learning and educational purposes. Add a LICENSE file to specify the terms under which others may use or distribute the project.
 
